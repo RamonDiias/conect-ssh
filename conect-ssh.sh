@@ -2,7 +2,7 @@
 
 # Para executar o programa "./" no terminal.
 
-# Programas instalados
+# Programas necessários instalados
 # sudo apt-get install ssh
 # sudo apt-get install sshpass
 
